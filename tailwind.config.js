@@ -23,6 +23,13 @@ export default {
         'text-primary':'#ffffff',
         'switch-bg':'#171c26',
         'green':'#008000',
+        'dark' :'#101010',
+        'light':'#ffffff',
+        'secondary':'#777777',
+        'border':'#323333',
+       'placeholder': '#777777' ,
+       'lines':'#323333',
+       'pulse':'#201f1f'
         
   
       },
